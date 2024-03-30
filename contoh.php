@@ -138,7 +138,7 @@ img{
 					<li><b>2011 - 2017</b> SDN Kalidungjaya 1</li>
 					<li><b>2017 - 2020</b> SMP Islam Yapinas</li>
 					<li><b>2020 - 2022</b> Pesantren Nurul Huda Al-Asiyah</li>
-					<li><b>2024 - 2024</b> Rumah Gemilang Indonesia</li>
+					<li><b>2024 - 2024</b> Rumah Gemilang Indonesia Jurusan Teknik Komputer Dan Jaringan</li>
 				</ul>
 			</div>
  
